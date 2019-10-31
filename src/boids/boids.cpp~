@@ -1,0 +1,15 @@
+/* 
+Boids Implementation (boids.h)
+October 28th, 2019
+by lacoperon (elliot.james.williams@gmail.com)
+Open Source under the Apache 2.0 License
+*/
+
+#include <iostream>
+#include "boids.h"
+using std::cout;
+using std::endl;
+
+int main() {
+  cout << "Hello, boids" << endl;
+}

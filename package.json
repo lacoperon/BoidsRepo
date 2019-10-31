@@ -1,0 +1,23 @@
+{
+  "name": "boids_repo",
+  "version": "1.0.0",
+  "description": "Implementation of Boids / Swarm Chemistry in C++, exposed to browser through WASM",
+  "main": "index.js",
+  "dependencies": {
+    "wcpp": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lacoperon/BoidsRepo.git"
+  },
+  "author": "lacoperon",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lacoperon/BoidsRepo/issues"
+  },
+  "homepage": "https://github.com/lacoperon/BoidsRepo#readme"
+}
